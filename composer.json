@@ -1,0 +1,12 @@
+{
+    "name": "fadoe/fadoe-filter",
+    "require": {
+        "zendframework/zend-filter": "2.1.*"
+    },
+    "authors": [
+        {
+            "name": "Falk Doering",
+            "email": "falk.doering@fadoe.de"
+        }
+    ]
+}
