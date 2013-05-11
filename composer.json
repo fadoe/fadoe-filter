@@ -8,5 +8,10 @@
             "name": "Falk Doering",
             "email": "falk.doering@fadoe.de"
         }
-    ]
+    ],
+    "autoload": {
+        "psr-0": {
+            "FaDoe\\Filter": ""
+        }
+    }
 }
