@@ -15,7 +15,6 @@
             "email": "falk.doering@fadoe.de"
         }
     ],
-    "target-dir": "FaDoe/Filter",
     "autoload": {
         "psr-0": {
             "FaDoe": "src/"
