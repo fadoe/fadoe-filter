@@ -1,6 +1,9 @@
 {
     "name": "fadoe/fadoe-filter",
+    "description": " ",
+    "license": "BSD-3-Clause",
     "require": {
+        "php": ">=5.3.10",
         "zendframework/zend-filter": "2.1.*"
     },
     "authors": [
@@ -9,9 +12,10 @@
             "email": "falk.doering@fadoe.de"
         }
     ],
+    "target-dir": "FaDoe/Filter",
     "autoload": {
         "psr-0": {
-            "FaDoe\\Filter": ""
+            "FaDoe\\Filter\\": ""
         }
     }
 }
