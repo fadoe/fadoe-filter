@@ -7,7 +7,7 @@ use PHPUnit_Framework_TestCase as TestCase;
 class BuildTreeTest extends TestCase
 {
 
-    protected function setUp()
+    public  function testBuildTree()
     {
         $this->markTestIncomplete();
     }

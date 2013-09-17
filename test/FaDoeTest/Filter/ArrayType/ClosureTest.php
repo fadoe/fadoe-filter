@@ -14,7 +14,7 @@ use PHPUnit_Framework_TestCase as TestCase;
 
 class ClosureTest extends TestCase
 {
-    protected function setUp()
+    public function testClosure()
     {
         $this->markTestIncomplete();
     }
