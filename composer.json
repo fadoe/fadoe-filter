@@ -12,9 +12,6 @@
         "php": ">=5.3.10",
         "zendframework/zend-filter": "~2.2"
     },
-    "suggest": {
-        "zendframework/zend-validator": "Zend\\Validator component"
-    },
     "require-dev": {
         "phpunit/phpunit": "~3.7"
     },
