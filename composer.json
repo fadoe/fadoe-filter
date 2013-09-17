@@ -1,6 +1,6 @@
 {
     "name": "fadoe/fadoe-filter",
-    "description": " ",
+    "description": "Additional filter for using with Zend\\Filter",
     "license": "BSD-3-Clause",
     "authors": [
         {
@@ -12,15 +12,15 @@
         "php": ">=5.3.10",
         "zendframework/zend-filter": "~2.2"
     },
+    "suggest": {
+        "zendframework/zend-validator": "Zend\\Validator component"
+    },
     "require-dev": {
         "phpunit/phpunit": "~3.7"
     },
     "autoload": {
         "psr-0": {
             "FaDoe": "src/"
-        },
-        "classmap": [
-            "./"
-        ]
+        }
     }
 }
